@@ -9,7 +9,7 @@
 9. 프로그램 종료
 ### 음식점 논리 모델 
 
-    <img width="2213" height="1208" alt="스크린샷 2025-08-13 111252" src="https://github.com/user-attachments/assets/c0326163-7fb6-478a-923e-fe60fdf2fd59" />
+<img width="2196" height="1224" alt="스크린샷 2025-08-13 111224" src="https://github.com/user-attachments/assets/50f87fb4-c5aa-4e2c-b11a-3f14cb3175ea" />
+### 음식점 물리 모델
 
-    
-<img width="2196" height="1224" alt="스크린샷 2025-08-13 111224" src="https://github.com/user-attachments/assets/bea9dfa2-a683-45c6-aa6a-3e03b760c757" />
+<img width="2213" height="1208" alt="스크린샷 2025-08-13 111252" src="https://github.com/user-attachments/assets/e458f200-0d29-4dcb-bbfe-39934926d6f4" />
