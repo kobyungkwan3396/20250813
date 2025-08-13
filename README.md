@@ -8,8 +8,10 @@
 5. 기존 메뉴 삭제
 9. 프로그램 종료
 ### 논리 모델링 
+<img width="2223" height="1215" alt="스크린샷 2025-08-13 141825" src="https://github.com/user-attachments/assets/42cbe966-f55a-43fd-b498-39156b68651c" />
 
-<img width="2196" height="1224" alt="스크린샷 2025-08-13 111224" src="https://github.com/user-attachments/assets/50f87fb4-c5aa-4e2c-b11a-3f14cb3175ea" />
+
 ### 물리 모델링
+<img width="2216" height="1189" alt="스크린샷 2025-08-13 141853" src="https://github.com/user-attachments/assets/d453734b-fdb0-4624-9f32-ed1e6e7e323f" />
 
-<img width="2213" height="1208" alt="스크린샷 2025-08-13 111252" src="https://github.com/user-attachments/assets/e458f200-0d29-4dcb-bbfe-39934926d6f4" />
+
